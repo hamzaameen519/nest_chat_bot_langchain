@@ -23,9 +23,10 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
+whatsapp chatbot easy to integrate first of all make twillo account and crediental add in .env also integrate firebase for data get from firestore.Chatbot get data from firestote and manage your data gave information. 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+## Envorment variable setup
+```.env.example from remove .example and add your secerate creditials```
 ## Project setup
 
 ```bash
